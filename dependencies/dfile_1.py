@@ -1,3 +1,3 @@
-msg = 'Hello from this file'
+msg = 'Hello from this dependency file'
 
 print(msg)
